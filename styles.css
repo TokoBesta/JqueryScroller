@@ -1,0 +1,54 @@
+#backgone {
+	height: 1000px;
+	background-color: #3399FF;
+	float: top;
+	margin: -8px;
+}
+#backgtwo {
+	height: 1000px;
+	background-color: #ff333e;
+	float: top;
+	margin: -8px;
+}
+
+#topmenu{
+	     background: #292929;
+	     height: 50px;
+	     margin: -8px;
+}
+
+#nani {
+	font-size:50px;
+	color: #780401;
+	margin: 300px;
+
+}
+
+#biwi{
+	margin-left: 5px;
+}
+#upone{
+	position: absolute; 
+	top: 50px;  
+	width: 34px;
+	height: 89px;
+	display: block;
+	background-image:url('up.png');
+
+}
+#upone:hover{
+	position: absolute; 
+	top: 50px;  
+	display: block;
+	width: 34px;
+	height: 89px;
+	background-image:url('hit.png');
+}
+#downone{
+	position: absolute; 
+	top: 50px;  
+	display: none;
+	width: 34px;
+	height: 89px;
+	background-image:url('down.png');
+}
